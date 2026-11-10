@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Gabi Semijoias"},{"path":"/colecoes","title":"Coleções"},{"path":"/produto/:handle","title":"Produto"},{"path":"/admin","title":"Painel da equipe"},{"path":"/sobre","title":"Sobre a Gabi"},{"path":"/contato","title":"Contato"},{"path":"/politicas","title":"Políticas"},{"path":"/404","title":"Página não encontrada"}]}
